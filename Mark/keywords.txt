@@ -1,0 +1,13 @@
+Mark	KEYWORD1
+waiting	KEYWORD3
+eyesOn	KEYWORD2
+eyesOff	KEYWORD2
+eyesBlink	KEYWORD2
+prossimity	KEYWORD2
+feaderMode	KEYWORD2
+walkForward	KEYWORD2
+clap	KEYWORD2
+handshakeJoke	KEYWORD2
+handShake	KEYWORD2
+objectDistance	KEYWORD2
+handsUp	KEYWORD2	
