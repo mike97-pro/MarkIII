@@ -1,0 +1,12 @@
+Istruzioni per L'uso
+Il modulo bluetooth potrebbe non accendersi insieme al robot ( le cinesate possono tradire a volte), si consiglia di staccare e riattacare il cavetto di alimentazione (quello rosso)  per garantirne l'accensione. In caso di carica delle batterie bassa il robot potrebbe avere comportamenti strani dovuti ai cali di tensione.
+
+Comandi da terminale:
+w : 	camminata assistita. Digitare due volte  's' nel terminale per stopparlo
+j  : 	stretta di mano con scherzo
+c : 	applauso (instabile, si cappotta)
+H : 	stretta di mano seria
+h : 	entrambe le braccia vanno verso l'alto
+o : 	rileva la distanza di un oggetto facendo lampeggiare gli occhi. Digitare 's' per tornare nella modalità iniziale
+f :	inutile per dimostrazioni ma utile per test, permette il controllo di un singolo servo-	motore. Dopo esere entrati in questa modalità si hanno a disposizione 	300 	millisecondi per inserire il numero del servo che si vuole controllare (reperibile nella tesina) dopo di che si potrà inserire un valore da 0 a 		9  che farà muovere il motore 	di conseguenza. Digitare 's' per uscire da questa modalità. (Troppo complessa e inutile per orientamento)
+r : 	comando di reset, fa tornare il robot nella posizione iniziale.
